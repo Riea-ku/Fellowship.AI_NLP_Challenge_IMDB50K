@@ -21,7 +21,7 @@ class Config:
     EPOCHS = 15
     TEST_SIZE = 0.2
     RANDOM_STATE = 42
-    DATA_PATH = 'E:/IMDB Dataset.csv'
+    DATA_PATH = 'IMDB Dataset.csv'
     SAMPLE_SIZE = 10000  # Set to None for full dataset
 
 
