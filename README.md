@@ -77,7 +77,7 @@ The Director's Cut (Key Insights):
 git clone https://github.com/Riea-ku/imdb-sentiment-analysis.git
 cd imdb-sentiment-analysis
 # Cue the training montage music...
-python sentiment_analysis.py
+code.py
 ```
 
 ## 🎭 Behind-the-Scenes Footage
