@@ -13,9 +13,9 @@ Ever cried at a movie only to realize the critic reviews called it "sentimental 
 
 
 ### 🔍 What Makes This Special
-- **Human-like text understanding**: Expands "OMG that plot twist!" into proper analysis
-- **Error analysis**: Shows me exactly where it gets confused (we all have our blind spots)
-- **Visual storytelling**: Because numbers alone can't capture the drama of sentiment
+- Human-like text understanding: Expands "OMG that plot twist!" into proper analysis
+- Error analysis: Shows me exactly where it gets confused (we all have our blind spots)
+- Visual storytelling: Because numbers alone can't capture the drama of sentiment
 
 ## 🎥 The Dataset Drama
 Using the [IMDB 50K Review Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) - a balanced mix of:
